@@ -29,7 +29,7 @@ jupyter notebook fashionmnist.ipynb
 ```
 
 ## Results
-- The model achieves around **83.67% accuracy** on the test set (replace with actual result).
+- The model achieves around **83.67% accuracy** on the test set.
 - The confusion matrix and accuracy plot are included in the notebook.
 
 ## Author
